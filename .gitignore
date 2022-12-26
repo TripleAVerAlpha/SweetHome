@@ -1,1 +1,4 @@
 venv/
+Azimutt/
+data/
+__pycache__/
